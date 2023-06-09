@@ -1,4 +1,4 @@
-import cart from "./img/shopping-cart.png"
+import cart from "../img/shopping-cart.png"
 
 function CartWidget() {
 
