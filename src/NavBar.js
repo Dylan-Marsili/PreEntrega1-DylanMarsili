@@ -48,10 +48,10 @@ function NavBar() {
                         <CartWidget/>
                         <div class="navbar-item">
                             <div class="buttons">
-                                <a class="button is-primary">
+                                <a class="button is-secondary">
                                     <strong>Registrarse</strong>
                                 </a>
-                                <a class="button is-light">
+                                <a class="button is-primary">
                                     Ingresar
                                 </a>
                             </div>
