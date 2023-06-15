@@ -17,41 +17,41 @@ function NavBar() {
                     </a>
                 </div>
                 <div id="navbarBasicExample" class="navbar-menu">
-                    <div class="navbar-end">
-                        <div class="navbar-item has-dropdown is-hoverable">
-                            <a class="navbar-link">
+                    <div className="navbar-end">
+                        <div className="navbar-item has-dropdown is-hoverable">
+                            <a className="navbar-link">
                                 Categorias
                             </a>
 
-                            <div class="navbar-dropdown">
-                                <a class="navbar-item">
+                            <div className="navbar-dropdown">
+                                <a className="navbar-item">
                                     Acción
                                 </a>
-                                <a class="navbar-item">
+                                <a className="navbar-item">
                                     Rol
                                 </a>
-                                <a class="navbar-item">
+                                <a className="navbar-item">
                                     Estrategia
                                 </a>
-                                <a class="navbar-item">
+                                <a className="navbar-item">
                                     Simulación
                                 </a>
-                                <a class="navbar-item">
+                                <a className="navbar-item">
                                     Deportes
                                 </a>
-                                <hr class="navbar-divider" />
-                                <a class="navbar-item">
+                                <hr className="navbar-divider" />
+                                <a className="navbar-item">
                                     Reportar un problema
                                 </a>
                             </div>
                         </div>
                         <CartWidget/>
-                        <div class="navbar-item">
-                            <div class="buttons">
-                                <a class="button is-secondary">
+                        <div className="navbar-item">
+                            <div className="buttons">
+                                <a className="button is-secondary">
                                     <strong>Registrarse</strong>
                                 </a>
-                                <a class="button is-primary">
+                                <a className="button is-primary">
                                     Ingresar
                                 </a>
                             </div>
